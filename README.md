@@ -66,3 +66,5 @@ Note also that Google requires a minimum of 300 IDs in order for a User List to 
 
 ### **Set up the Campaign in Google**
 After the campaign is scheduled within Optimove, use the Google AdWords or DBM client to create the desired campaign for the User List populated by Optimove.
+
+testt
